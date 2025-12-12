@@ -3,7 +3,7 @@
 
 - I’m currently working on **backend systems and infrastructure!**
 
-- Looking to do more in **networking, OS, backend, high performance systems, etc.**
+- Looking to do more in **networking, OS, backend, high performance systems, infrastructure, machine learning, etc.**
 
 - 📫 How to reach me **fillip_cutiuba@brown.edu**
 
